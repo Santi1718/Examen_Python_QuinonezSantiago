@@ -1,0 +1,29 @@
+{
+    "Servicioss":{
+        "Servio1a": "Fibra_optica",
+        "Tiempo": "6 meses",
+        "Precio": "250 USD",
+        "Plataforma": "Movistar",
+        "Cantidad_Servicio": "90Megas"
+        }, 
+
+        "2":{
+            "Servio2a": "Plan_Pospago",
+        "Tiempo": "1 año",
+        "Precio": "450USD",
+        "Plataforma": "Movistar",
+        "Cantidad_Servicio": "80GB"
+        }, 
+
+        "3":{
+            "Servio1a": "Plan_Prepago",
+        "Tiempo": "2 años",
+        "Precio": "800USD",
+        "Plataforma": "Movistar",
+        "Cantidad_Servicio": "330GB"
+        }
+
+
+
+
+}
